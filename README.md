@@ -26,7 +26,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [get an advice]()
+- Live Site URL: [get an advice](https://barrerajorgel.github.io/Advice-generator/)
 
 # My process
 
